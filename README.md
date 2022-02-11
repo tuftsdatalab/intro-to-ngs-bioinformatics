@@ -40,4 +40,5 @@ The class is listed in term Summer 2020, 1: Intro to NGS Bioinformatics
 
 
 ## Acknowledgement
-This course was developed and developed by Dr. Wewen Huo and Dr. Rebecca Batorsky at Tufts University and adapted from [HBC Training In Depth NGS Analysis Course](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course)
+This course was developed by Dr. Wewen Huo and Dr. Rebecca Batorsky at Tufts University and adapted from [HBC Training In Depth NGS Analysis Course](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course)
+The original course repo can be found [here](https://github.com/rbatorsky/intro-to-ngs-bioinformatics)

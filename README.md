@@ -1,6 +1,7 @@
 ### A Tufts University Research Technology Workshop
 
 ## Description
+
 This course covers the basics of Next Generation Sequencing Bioinformatics, with the goal of 
 variant calling and interpretation.
 
@@ -12,6 +13,7 @@ The class is listed in term Summer 2020, 1: Intro to NGS Bioinformatics
 
 
 ## Goals
+
 - Writing and running bash scripts on the HPC
 - Intro to several bioinformatics tools: BWA, Samtools, Picard, GATK, VEP, IGV
 - Variant Calling, Annotation and Interpretation using a Human Exome sample
@@ -21,15 +23,18 @@ The class is listed in term Summer 2020, 1: Intro to NGS Bioinformatics
 ## Prerequisites
 
 ### Computational skills needed
+
 - Introduction to [Linux](https://tufts.box.com/s/x9aflewr2qw59pcbgcghbo9muykbi4ju)
 - Introduction to [HPC](https://tufts.box.com/s/yubnzxnpih14hd80mbfxqrkdri8s2nws)
 
 ### Materials Needed
+
 - Chrome web browser
 - Account on [Tufts HPC](https://access.tufts.edu/research-cluster-account)
 - [VPN](https://access.tufts.edu/vpn) if accessing the HPC from off campus
 
 ## Schedule
+
 - [Introduction](slides/intro_to_ngs_bioinformatics_into_18May20.pdf)
 - [Setup](lessons/01_Setup.md)
 - [Quality Control](lessons/02_Quality_Control.md)
@@ -40,5 +45,7 @@ The class is listed in term Summer 2020, 1: Intro to NGS Bioinformatics
 
 
 ## Acknowledgement
+
 This course was developed by Dr. Wewen Huo and Dr. Rebecca Batorsky at Tufts University and adapted from [HBC Training In Depth NGS Analysis Course](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course)
+
 The original course repo can be found [here](https://github.com/rbatorsky/intro-to-ngs-bioinformatics)

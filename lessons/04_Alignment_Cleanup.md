@@ -274,3 +274,5 @@ This lesson adapted from [HBC NGS Data Analysis](https://github.com/hbc/NGS_Data
 [Next: Variant Calling](05_Variant_Calling.md)
 
 [Previous: Alignment ](03_Alignment.md)
+
+[Main Page](../README.md)

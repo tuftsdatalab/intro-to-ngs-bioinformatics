@@ -105,3 +105,5 @@ very common variant and unlikely to be pathogenic.
 <img src="../img/summary_vep.png" width="200">
 
 [Previous: Variant Calling](05_Variant_Calling.md)
+                                             
+[Main Page](../README.md)

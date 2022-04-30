@@ -319,3 +319,5 @@ In this case, >99% properly paired and mapped indicates a high quality alignment
 [Next: Alignment Cleanup](04_Alignment_Cleanup.md) 
 
 [Previous: Quality Control](02_Quality_Control.md)
+
+[Main Page](../README.md)

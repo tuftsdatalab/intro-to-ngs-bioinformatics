@@ -233,3 +233,5 @@ Hover over the colored blocks on the variant track in order to see the informati
 [Next: Variant Annotation](06_Variant_Annotation.md)
 
 [Previous: Alignment Cleanup](04_Alignment_Cleanup.md)
+
+[Main Page](../README.md)

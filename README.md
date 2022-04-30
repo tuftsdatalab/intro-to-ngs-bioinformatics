@@ -52,4 +52,4 @@ This course was developed by Dr. Wewen Huo and Dr. Rebecca Batorsky at Tufts Uni
 
 The original course repo can be found [here](https://github.com/rbatorsky/intro-to-ngs-bioinformatics)
 
-## [Back To All Workshops](https://tuftsdatalab.github.io/Research_Technology_Bioinformatics/)
+#### [Back To All Workshops](https://tuftsdatalab.github.io/Research_Technology_Bioinformatics/)

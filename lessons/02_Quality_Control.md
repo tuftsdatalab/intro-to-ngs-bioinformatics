@@ -297,3 +297,5 @@ The result after trimming is much improved:
 [Next: Alignment](03_Alignment.md)
 
 [Previous: Setup](01_Setup.md)
+					
+[Main Page](../README.md)
